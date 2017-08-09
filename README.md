@@ -14,3 +14,4 @@ https://github.com/jessicaldale/2017
 8. Set up work template/get data file loaded
 9. Set grid and apply styles
 10. Add new work content
+11. Get Pages to direct to the index page instead of the README (.nojekyll)
