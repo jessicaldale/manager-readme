@@ -1,4 +1,4 @@
-# Jess Dale Portfolio Rework 2017
+# Portfolio of Jess Dale (from scratch v1)
 https://github.com/jessicaldale/2017
 
 ## Done
