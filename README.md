@@ -9,11 +9,11 @@ https://github.com/jessicaldale/2017
 5. Set up site structure using middleman, bourbon, yaml
 
 ## To do
-6. Set up header nav
+6. Set up header nav and link to the about page, resume, linkedin
 7. Get data file working
 8. Set up work template/get data file loaded
 9. Set grid and apply styles
-10. Add new work content 
+10. Add new work contents: 
     - Fiserv Intranet
     - NYC ACS Hackathon
     - Design Team Playbook 
