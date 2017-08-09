@@ -1,4 +1,5 @@
-# 2017
+# Jess Dale Portfolio Rework 2017
+https://github.com/jessicaldale/2017
 
 ## Done
 1. Trashed Squarespace
