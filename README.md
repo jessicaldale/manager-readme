@@ -13,5 +13,5 @@ https://github.com/jessicaldale/2017
 7. Get data file working
 8. Set up work template/get data file loaded
 9. Set grid and apply styles
-10. Add new work content
+10. Add new work content (Fiserv Intranet, NYC Hackathon, Design Team Playbook, Pharmacist Drug Reference App, SaaS Platform User Research)
 11. Get Pages to direct to the index page instead of the README (.nojekyll)
