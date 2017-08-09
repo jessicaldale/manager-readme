@@ -10,6 +10,6 @@
 ## To do
 6. Set up header nav
 7. Get data file working
-8. Set up work template
+8. Set up work template/get data file loaded
 9. Set grid and apply styles
-10. Write new content
+10. Add new work content
