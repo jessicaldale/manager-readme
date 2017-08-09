@@ -7,8 +7,7 @@
 4. Created github site/Pages and set up CNAME
 5. Set up site structure using middleman, bourbon, yaml
 
-##To do
-
+## To do
 6. Set up header nav
 7. Get data file working
 8. Set up work template
