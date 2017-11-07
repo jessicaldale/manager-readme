@@ -1,5 +1,5 @@
 # Portfolio of Jess Dale (from scratch v1)
-https://github.com/jessicaldale/2017
+Portfolio preso for download: 
 
 ## Done
 1. Trashed Squarespace
