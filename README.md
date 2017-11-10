@@ -1,5 +1,5 @@
 # Portfolio of Jess Dale (from scratch v1)
-Portfolio preso for download: 
+Portfolio preso for download: https://www.dropbox.com/s/w7ejvlftxl2p9x1/JDale.pdf?dl=0
 
 ## Done
 1. Trashed Squarespace
