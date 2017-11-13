@@ -14,7 +14,7 @@
 8. Set up work template/get data file loaded
 9. Set grid and apply styles
 10. Add new work contents: 
-    - Fiserv Intranet
+    - Quartet Patient Experience
     - NYC ACS Hackathon
     - Design Team Playbook 
     - Pharmacist Drug Reference App
