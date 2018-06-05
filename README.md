@@ -15,6 +15,8 @@ As an Design Manager, it is my job to:
 3. Solve organizational problems and introduce or refine processes that support our work
 4. Provide context and big-picture vision
 
+I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company.
+
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
 # How I approach my job
