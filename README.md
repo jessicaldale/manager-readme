@@ -126,3 +126,6 @@ From my own peers leading other areas, I love to learn how I can support their a
 What’s your favourite baked good?
 
 C- hewy, soft chocolate chip cookies. Oh, and bran rusks!
+
+
+[Download my resume](https://dropbox.com/)
