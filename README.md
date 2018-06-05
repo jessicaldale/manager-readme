@@ -29,6 +29,12 @@ I expect you to operate as a [Directly Responsible Individual](https://medium.co
 
 I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can.
 
+# My Philosophy
+I believe in leading by helping others see more clearly what they already know, and finding the solutions and strengths that are already inside people. I love to be surrounded by people who challenge me and I recognize that everyone is my superior at something. I value open, authentic relationships. I promise to be kind, honest and empathetic with others, and hold a safe space for the hard, messy wonderful process of growing and flourishing as a full human being.
+
+I’m big on work/life balance.
+Most folks work between about 10am (at the earliest) to 6pm (at the latest), and unless there’s an emergency, I don’t expect to communicate with you outside of these hours with respect to your local time. I try not to respond to e-mails or slack during off-hours and under no circumstances expect you to, unless it’s an emergency.
+
 # Process
 I believe that there is a place for process on a team. I need certain processes in place to be able to manage up and out to the rest of the organization; however I do not believe in process for the sake of process. I know that what works for one team, will not work for another - and I know that dictating process is not ideal. I will attempt to improve process, but I want to make sure that any changes I make are beneficial for all parties. If you ever have feedback on process - please let me know - I want the team to operate at its best at all times, and having a process that makes sense for everyone is critical.
 
@@ -52,24 +58,18 @@ I know that this gets repetitive - but it's very important to me to ask those qu
 
 I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
-# "Where do I stand?"
+# Expectations of folks who report to me
 Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
 
-I categorize people based on one of five particular levels of performance rating (based on standard HR [Performance Rating Scale](https://hr.berkeley.edu/performance/tools/rating-scale)): 
+Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
 
-* _Exceptional_ - Performance far exceeds expectations
-* _Exceeds expectations_ - Performance consistently exceeds expectations
-* _Meets expectations_ - Performance consistently meets expectations
-* _Improvement needed_ - Performance did not consistently meet expectations
-* _Unsatisfactory_ - Performance was consistently below expectations
+Please invest in 1:1s - if you’re a manager, please do regular (weekly) 1:1s, and if you’re an engineer, please use the time of the 1:1 as a chance to reflect on your challenges and growth.
 
-It is **really** important to note that a _Meets Expectations_ is not a bad level to be at - I have high expectations of everyone that
-reports to me, and meeting those expectations is a great thing! If you ever disagree with my rating of your performance, please bring it
-up - I am happy to discuss why I see you at a certain level. 
+Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
 
-You will generally know when you are in the _Improvement Needed_ level. 
+Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
-You will **definitely** know when you are approaching or are at the _Unsatisfactory_ level.
+In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
 
 # Things you should know about me
 I have personality quirks. We all do. Here are some things that I am both aware of, and that may impact how you work with me:
