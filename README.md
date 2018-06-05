@@ -26,8 +26,10 @@ I may not always seem to be available, most often due to meetings. Regardless of
 
 I believe in leading by helping others see more clearly what they already know, and finding the solutions and strengths that are already inside people. I love to be surrounded by people who challenge me and I recognize that everyone is my superior at something. I value open, authentic relationships. I promise to be kind, honest and empathetic with others, and hold a safe space for the hard, messy wonderful process of growing and flourishing as a full human being.
 
-I’m big on work/life balance.
+*I’m big on work/life balance.*
 Most folks work between about 10am (at the earliest) to 6pm (at the latest), and unless there’s an emergency, I don’t expect to communicate with you outside of these hours with respect to your local time. I try not to respond to e-mails or slack during off-hours and under no circumstances expect you to, unless it’s an emergency.
+
+I want to encouraging and model a healthy work-life balance and avoid burnout. I may from time to time ask for help, too! My early warning sign is losing my sense of humour.
 
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
