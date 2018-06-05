@@ -54,6 +54,10 @@ I expect you to operate as a [Directly Responsible Individual](https://medium.co
 
 I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can.
 
+* To clarify: you’re here because of your experience and your skills and I don’t want to override either of those. I’m here to help you succeed but not dictate how you should act.
+* My job is to help evaluate your approach. If I think you’re headed down the wrong path, I’ll definitely try to dissuade you, but disagreeing with my input does not indicate that you’re doing something wrong.
+* You’ll still need to get consensus, agreement, and input from your teammates.
+
 # Process
 I believe that there is a place for process on a team. I need certain processes in place to be able to manage up and out to the rest of the organization; however I do not believe in process for the sake of process. I know that what works for one team, will not work for another - and I know that dictating process is not ideal. I will attempt to improve process, but I want to make sure that any changes I make are beneficial for all parties. If you ever have feedback on process - please let me know - I want the team to operate at its best at all times, and having a process that makes sense for everyone is critical.
 
