@@ -31,6 +31,24 @@ Most folks work between about 10am (at the earliest) to 6pm (at the latest), and
 
 I want to encouraging and model a healthy work-life balance and avoid burnout. I may from time to time ask for help, too! My early warning sign is losing my sense of humour.
 
+I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
+
+* I value transparency about what’s happened, what’s happening, and what’s going to happen.
+* I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
+* I value learning, and know that training up on a tech stack may not always be the fastest route to production.
+* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
+
+
+# Bonus! Here are some of my personal values that guide my own work.
+
+* I like autonomy and ownership. 
+* I like to understand what success looks like, so I will know if it’s been achieved. 
+* I like to know someone has my back.
+* I like to know I am trusted. 
+* I need time to process and strategize.
+* I have to ask why. A lot.
+* I hate how distracted I get.
+
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
@@ -42,7 +60,9 @@ I believe that there is a place for process on a team. I need certain processes 
 # 1-on-1's
 I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
 
-While I have a preference to meeting for 30 minutes every week, that is not always feasible, nor something that everyone finds beneficial. By default, I will book us time to meet for 30 minutes every 2 weeks. Additionally, I will have Office Hours scheduled every Tuesday from 12 to 2pm - this time slot is only available to my direct reports. If you want to have an additional 1-on-1 during an off-week, feel free to book this time with no guilt. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
+For local chats, I really enjoy walking 1:1s; for remote chats, I have a difficult time focusing unless I can see your face over video.  This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing 360 feedback, etc.) so that we still have room for more timely 1:1 chat.
+
+While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. Additionally, I will have Office Hours scheduled every Tuesday from 12 to 2pm - this time slot is only available to my direct reports. If you want to have an additional 1-on-1 during an off-week, feel free to book this time with no guilt. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
 If you don't like the cadance of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for you - anything I can do to prevent [unnecessary context switching](https://blog.trello.com/why-context-switching-ruins-productivity). As mentioned before, 1-on-1's are your time with me - and if you want to skip a 1-on-1, or cut one short, that is completely fine. 
 
