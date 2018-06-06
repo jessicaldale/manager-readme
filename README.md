@@ -40,17 +40,6 @@ I strongly believe in putting people over process and changing process to accomm
 * I value learning, and know that training up on a tech stack may not always be the fastest route to production.
 * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
-
-# Bonus! Here are some of my personal values that guide my own work.
-
-* I like autonomy and ownership. 
-* I like to understand what success looks like, so I will know if it’s been achieved. 
-* I like to know someone has my back.
-* I like to know I am trusted. 
-* I need time to process and strategize.
-* I have to ask why. A lot.
-* I hate how distracted I get.
-
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
@@ -112,46 +101,63 @@ I still want to find a way to help everyone. I try my best to not let this impac
 my team. If I do this, please call me out. I have grounded myself extensively over the years, so for the most part this is no longer an
 issue - but it does slip through at times.
 * According to random personality tests I've taken at random company team building events, I am classified as an 
-[INTJ personality](https://www.16personalities.com/intj-personality). While I find bucketing someone in to a single identifier is as
+[INFJ personality](https://www.16personalities.com/infj-personality). While I find bucketing someone in to a single identifier is as
 effective as star signs defining you as an individual, I certainly see traits that match my general personality. Feel free to read up on
 that personality type if you want to get some insight in to some broad categorization of who I may or may not be.
+
+## Here are some of my personal values that inform my work.
+
+* I like autonomy and ownership. 
+* I like to understand what success looks like, so I will know if it’s been achieved. 
+* I like to know someone has my back.
+* I like to know I am trusted. 
+* I need time to process and strategize.
+* I have to ask why. A lot.
+* I hate how distracted I get.
+
 
 What makes you grumpy?
 
 If I feel like I don’t have challenges to work on - when I’m challenged, I’m happy! One other thing is folks doubling down to defend mistakes (all humans make mistakes, we just need to learn from them). Environments where we’re not learning from our mistakes make me grumpy.
+
 How will I know when you’re grumpy?
 
 I will probably tell you if something is up!
 How can I help you when you’re grumpy?
 
 Talking about something interesting (like you!) will usually pull me out of it.
+
 How do you like feedback - slack, email, in person, etc?
 
 I see feedback as a gift, and I know from experience it can be the hardest thing to do. I like feedback however it comes, and value being challenged and held accountable so I can learn and grow. I will make mistakes, and when I do, I promise to quickly correct and learn from them, and not double down defending a bad decision.
 How do you like feedback - routine like in 1:1s, or as-it-happens?
 
 As-it-happens, for sure!
+
 How do you prefer to receive recognition? (public or private)
 
 Public 🎉
+
 What makes 1:1s the most valuable for you?
 
 When I can get the overview of the wider challenges and objectives, and see that top level view of how my role can help. Also, digging into a juicy challenge, I love that!
 What are your goals for this year? And for the next 3 months?
 
 In the next 3 months, I want to successfully grow our engineering team in a diverse way. I’m also working on defining what success and career growth means for EMs and evolve our career framework to provide growth opportunities for staff engineers. This year, my goal is to build a strong, inclusive team of engineers and EMs who are flourishing in their roles and delivering a high degree of excellence to our customers and collaboration with our partners in Product and Customer Advocacy.
+
 What do you need from your manager?
 
 Autonomy and trust to solve challenges and move the team forward (I’m lucky to get this!)
+
 From your team?
 
 My whole role exists in a team context, and I’m just a small part of this wider ecosystem. I’m excited to invest and nurture that ecosystem for the long haul! In terms of what I need, it’s honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
 From your peers? (outside the team)
 
 From my own peers leading other areas, I love to learn how I can support their areas and grow from that. Honest feedback and psychological safety are my #1’s there, as well.
-What’s your favourite baked good?
 
-C- hewy, soft chocolate chip cookies. Oh, and bran rusks!
+What’s your favorite dessert?
+...
 
 
 [Download my resume](https://dropbox.com/)
