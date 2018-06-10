@@ -9,7 +9,7 @@ I urge you to hold me accountable to my promises, and to call out anything that 
 # My Job
 As a Design Manager, it is my job to:
 
-1. Provide context and vision
+1. Start with why - providing context and vision
 2. Manage and develop well-functioning design teams
 3. Create safe spaces and provide support for designers to develop and growth
 4. Refine or define processes that ensure the success of our team's work
