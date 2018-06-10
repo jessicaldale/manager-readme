@@ -11,9 +11,9 @@ As a Design Manager, it is my job to:
 
 1. Provide context and vision
 2. Manage and develop well-functioning design teams
-3. Create safe spaces for you to develop and growth
+3. Create safe spaces for designers to develop and growth
 4. Solve organizational problems and introduce or refine processes that support our team's work
-5. Hire and retain world-class talent (that's you)
+5. Hire, train and retain world-class talent
 
 I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company.
 
@@ -57,7 +57,7 @@ I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the 
 
 For local chats, I really enjoy walking 1:1s; for remote chats, I have a difficult time focusing unless I can see your face over video.  This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing 360 feedback, etc.) so that we still have room for more timely 1:1 chat.
 
-While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. Additionally, I will have Office Hours scheduled every Tuesday from 12 to 2pm - this time slot is only available to my direct reports. If you want to have an additional 1-on-1 during an off-week, feel free to book this time with no guilt. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
+While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
 If you don't like the cadance of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for you - anything I can do to prevent [unnecessary context switching](https://blog.trello.com/why-context-switching-ruins-productivity). As mentioned before, 1-on-1's are your time with me - and if you want to skip a 1-on-1, or cut one short, that is completely fine. 
 
@@ -79,7 +79,7 @@ Part of my job is to track the performance of those who report to me - and obvio
 
 Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
 
-Please invest in 1:1s - if you’re a manager, please do regular (weekly) 1:1s, and if you’re an engineer, please use the time of the 1:1 as a chance to reflect on your challenges and growth.
+Please invest in 1:1s - if you’re a manager, please do regular (weekly) 1:1s, and if you’re an designer, please use the time of the 1:1 as a chance to reflect on your challenges and growth.
 
 Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
 
@@ -114,50 +114,6 @@ that personality type if you want to get some insight in to some broad categoriz
 * I need time to process and strategize.
 * I have to ask why. A lot.
 * I hate how distracted I get.
-
-
-What makes you grumpy?
-
-If I feel like I don’t have challenges to work on - when I’m challenged, I’m happy! One other thing is folks doubling down to defend mistakes (all humans make mistakes, we just need to learn from them). Environments where we’re not learning from our mistakes make me grumpy.
-
-How will I know when you’re grumpy?
-
-I will probably tell you if something is up!
-How can I help you when you’re grumpy?
-
-Talking about something interesting (like you!) will usually pull me out of it.
-
-How do you like feedback - slack, email, in person, etc?
-
-I see feedback as a gift, and I know from experience it can be the hardest thing to do. I like feedback however it comes, and value being challenged and held accountable so I can learn and grow. I will make mistakes, and when I do, I promise to quickly correct and learn from them, and not double down defending a bad decision.
-How do you like feedback - routine like in 1:1s, or as-it-happens?
-
-As-it-happens, for sure!
-
-How do you prefer to receive recognition? (public or private)
-
-Public 🎉
-
-What makes 1:1s the most valuable for you?
-
-When I can get the overview of the wider challenges and objectives, and see that top level view of how my role can help. Also, digging into a juicy challenge, I love that!
-What are your goals for this year? And for the next 3 months?
-
-In the next 3 months, I want to successfully grow our engineering team in a diverse way. I’m also working on defining what success and career growth means for EMs and evolve our career framework to provide growth opportunities for staff engineers. This year, my goal is to build a strong, inclusive team of engineers and EMs who are flourishing in their roles and delivering a high degree of excellence to our customers and collaboration with our partners in Product and Customer Advocacy.
-
-What do you need from your manager?
-
-Autonomy and trust to solve challenges and move the team forward (I’m lucky to get this!)
-
-From your team?
-
-My whole role exists in a team context, and I’m just a small part of this wider ecosystem. I’m excited to invest and nurture that ecosystem for the long haul! In terms of what I need, it’s honest feedback and a safe, inclusive work environment for each of us to be trusting and fully engaged.
-From your peers? (outside the team)
-
-From my own peers leading other areas, I love to learn how I can support their areas and grow from that. Honest feedback and psychological safety are my #1’s there, as well.
-
-What’s your favorite dessert?
-...
 
 
 [Download my resume](https://www.dropbox.com/s/jnrkiwnyz3jbmpy/JessDale_Resume_2019.pdf?dl=0)
