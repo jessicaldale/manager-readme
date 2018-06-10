@@ -160,4 +160,4 @@ What’s your favorite dessert?
 ...
 
 
-[Download my resume](https://dropbox.com/)
+[Download my resume](https://www.dropbox.com/s/jnrkiwnyz3jbmpy/JessDale_Resume_2019.pdf?dl=0)
