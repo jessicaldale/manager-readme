@@ -11,8 +11,8 @@ As a Design Manager, it is my job to:
 
 1. Provide context and vision
 2. Manage and develop well-functioning design teams
-3. Create safe spaces for designers to develop and growth
-4. Solve organizational problems and introduce or refine processes that support our team's work
+3. Create safe spaces and provide support for designers to develop and growth
+4. Refine or define processes that ensure the success of our team's work
 5. Hire, train and retain world-class talent
 
 I’m here to help and support you, to set context for what you’re working on, and to advocate for you and the team with the rest of the company.
