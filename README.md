@@ -1,5 +1,5 @@
 # What is this?
-I' m Jess Dale and this is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+I'm Jess Dale and this is my [Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/), a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
 I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
 
