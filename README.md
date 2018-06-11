@@ -33,13 +33,6 @@ Most folks work between about 10am (at the earliest) to 6pm (at the latest), and
 
 I want to encouraging and model a healthy work-life balance and avoid burnout. I may from time to time ask for help, too! My early warning sign is losing my sense of humour.
 
-I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
-
-* I value transparency about what’s happened, what’s happening, and what’s going to happen.
-* I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
-* I value learning, and know that training up on a tech stack may not always be the fastest route to production.
-* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
-
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
@@ -51,6 +44,13 @@ I am not here to tell you how to do your job. I believe you are able to operate 
 
 # Process
 I believe that there is a place for process on a team. I need certain processes in place to be able to manage up and out to the rest of the organization; however I do not believe in process for the sake of process. I know that what works for one team, will not work for another - and I know that dictating process is not ideal. I will attempt to improve process, but I want to make sure that any changes I make are beneficial for all parties. If you ever have feedback on process - please let me know - I want the team to operate at its best at all times, and having a process that makes sense for everyone is critical.
+
+I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
+
+* I value transparency about what’s happened, what’s happening, and what’s going to happen.
+* I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
+* I value learning, and know that training up on a tech stack may not always be the fastest route to production.
+* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
 # 1-on-1's
 I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
