@@ -37,8 +37,8 @@ I am not here to tell you how to do your job. I believe you are able to operate 
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
-* I value speed, including proactive efforts that keep us moving quickly (e.g. writing tests, refactoring legacy code before a new feature, pairing on work to improve our code quality and bus factor)
-* I value learning, and know that training up on a tech stack may not always be the fastest route to production.
+* I value being human.
+* I value improvement and proactive.
 * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
 # 1-on-1's
@@ -92,7 +92,7 @@ issue - but it does slip through at times.
 effective as star signs defining you as an individual, I certainly see traits that match my general personality. Feel free to read up on
 that personality type if you want to get some insight in to some broad categorization of who I may or may not be.
 
-## Here's a short list of things that I'm thinking about as I'm working.
+## Here's a short list of fun facts.
 
 * I like autonomy and ownership. 
 * I like to understand what success looks like, so I will know if it’s been achieved. 
