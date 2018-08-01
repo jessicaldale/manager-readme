@@ -20,18 +20,7 @@ I’m here to help and support you, to set context for what you’re working on,
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
 # How I approach my job
-I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
-My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
-
-I may not always seem to be available, most often due to meetings. Regardless of how busy I am, nothing is more important than the time I can spend with you. If you need to chat - find time on my calendar - no need to ask. If you can't find time, I will make time. 
-
-I believe in leading by helping others see more clearly what they already know, and finding the solutions and strengths that are already inside people. I love to be surrounded by people who challenge me and I recognize that everyone is my superior at something. I value open, authentic relationships. I promise to be kind, honest and empathetic with others, and hold a safe space for the hard, messy wonderful process of growing and flourishing as a full human being.
-
-*I’m big on work/life balance.*
-Most folks work between about 10am (at the earliest) to 6pm (at the latest), and unless there’s an emergency, I don’t expect to communicate with you outside of these hours with respect to your local time. I try not to respond to e-mails or slack during off-hours and under no circumstances expect you to, unless it’s an emergency.
-
-I want to encouraging and model a healthy work-life balance and avoid burnout. I may from time to time ask for help, too! My early warning sign is losing my sense of humour.
 
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
@@ -43,8 +32,6 @@ I am not here to tell you how to do your job. I believe you are able to operate 
 * You’ll still need to get consensus, agreement, and input from your teammates.
 
 # Process
-I believe that there is a place for process on a team. I need certain processes in place to be able to manage up and out to the rest of the organization; however I do not believe in process for the sake of process. I know that what works for one team, will not work for another - and I know that dictating process is not ideal. I will attempt to improve process, but I want to make sure that any changes I make are beneficial for all parties. If you ever have feedback on process - please let me know - I want the team to operate at its best at all times, and having a process that makes sense for everyone is critical.
-
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
@@ -58,8 +45,6 @@ I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the 
 For local chats, I really enjoy walking 1:1s; for remote chats, I have a difficult time focusing unless I can see your face over video.  This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing 360 feedback, etc.) so that we still have room for more timely 1:1 chat.
 
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
-
-If you don't like the cadance of our 1-on-1's, please let me know, and I am happy to adjust. The same goes for timing that works best for you - anything I can do to prevent [unnecessary context switching](https://blog.trello.com/why-context-switching-ruins-productivity). As mentioned before, 1-on-1's are your time with me - and if you want to skip a 1-on-1, or cut one short, that is completely fine. 
 
 # Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
