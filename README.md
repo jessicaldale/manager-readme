@@ -20,7 +20,9 @@ I’m here to help and support you, to set context for what you’re working on,
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
 # How I approach my job
+I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
+My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
 # How I expect you to approach your job
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
@@ -52,8 +54,8 @@ I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_9
 Feedback should go both ways. I am relying on you to let me know when I am doing something detrimental to my position, our relationship, or the company. If at any point you feel you have feedback to provide to me, I will listen and internalize the feedback you give me. Beyond that, I will go one step further and ask you three questions at the end of every 1-on-1 we have:
 
 * "Anything else on your mind?" - Just in case you forgot something!
-* "What do you need from me?" - Am I blocking you on anything? Do you have any additional requests?
-* "What can I do better?" - This is me opening the conversation to receive feedback from you - please provide it if you have it!
+* "What can I do support you?" - Am I blocking you on anything? Do you have any additional requests?
+* "Any advice for me?" - This is me opening the conversation to receive feedback from you - please provide it if you have it!
 
 I know that this gets repetitive - but it's very important to me to ask those questions every session.
 
@@ -90,7 +92,7 @@ issue - but it does slip through at times.
 effective as star signs defining you as an individual, I certainly see traits that match my general personality. Feel free to read up on
 that personality type if you want to get some insight in to some broad categorization of who I may or may not be.
 
-## Here are some of my personal values that inform my work.
+## Here's a short list of things that I'm thinking about as I'm working.
 
 * I like autonomy and ownership. 
 * I like to understand what success looks like, so I will know if it’s been achieved. 
