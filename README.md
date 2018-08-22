@@ -1,7 +1,7 @@
 # What is this?
-I'm Jess Dale and this is my [Manager README](https://), a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
+I'm Jess Dale and this is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
-I urge you to hold me accountable to my promises, and to call out anything that might be missing from this document. Without your guidance, I will not be able to improve as a manager.
+If I've missed something here, or if you feel like there's a mismatch in what you've read versus what you've seen from me, please raise it. This is public with the intent that it will make it easier for you to hold me accountable!
 
 > Disclaimer:
 > This document does not apply to anyone else in the company, and solely reflects on my personal management style.
@@ -19,36 +19,37 @@ I’m here to help and support you, to set context for what you’re working on,
 
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
-# How I approach my job
-I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
-
-My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
-
-# How I expect you to approach your job
-I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
-
-I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can.
-
-* To clarify: you’re here because of your experience and your skills and I don’t want to override either of those. I’m here to help you succeed but not dictate how you should act.
-* My job is to help evaluate your approach. If I think you’re headed down the wrong path, I’ll definitely try to dissuade you, but disagreeing with my input does not indicate that you’re doing something wrong.
-* You’ll still need to get consensus, agreement, and input from your teammates.
-
-# Process
+# My Values
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
 * I value being human.
-* I value improvement and proactive.
+* I value improvement and being proactive.
 * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
-# 1-on-1's
+# My Approach
+I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
+
+My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
+
+# What I expect from folks who report to me
+I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
+
+I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
+
+## Performance
+Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
+
+Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
+
+# What you can expect from me
 I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
 
 For local chats, I really enjoy walking 1:1s; for remote chats, I have a difficult time focusing unless I can see your face over video.  This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing 360 feedback, etc.) so that we still have room for more timely 1:1 chat.
 
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
-# Feedback
+## Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
 
 Feedback should go both ways. I am relying on you to let me know when I am doing something detrimental to my position, our relationship, or the company. If at any point you feel you have feedback to provide to me, I will listen and internalize the feedback you give me. Beyond that, I will go one step further and ask you three questions at the end of every 1-on-1 we have:
@@ -61,12 +62,10 @@ I know that this gets repetitive - but it's very important to me to ask those qu
 
 I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
-# Performance
+## Communication
 Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
 
 Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
-
-Please invest in 1:1s - if you’re a manager, please do regular (weekly) 1:1s, and if you’re an designer, please use the time of the 1:1 as a chance to reflect on your challenges and growth.
 
 Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
 
@@ -74,7 +73,8 @@ Please invest in yourself and focus on self-improvement. This looks different fo
 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
 
-# Things you should know about me
+
+# More about me and my personality
 I have personality quirks. We all do. Here are some things that I am both aware of, and that may impact how you work with me:
 
 * I am an [Internal Thinker](https://coachapproachministries.org/thinking-styles/). I will take my time to purposefully choose the words
@@ -92,7 +92,7 @@ issue - but it does slip through at times.
 effective as star signs defining you as an individual, I certainly see traits that match my general personality. Feel free to read up on
 that personality type if you want to get some insight in to some broad categorization of who I may or may not be.
 
-## Here's a short list of fun facts.
+## Fun facts!
 
 * I like autonomy and ownership. 
 * I like to understand what success looks like, so I will know if it’s been achieved. 
@@ -102,5 +102,10 @@ that personality type if you want to get some insight in to some broad categoriz
 * I have to ask why. A lot.
 * I hate how distracted I get.
 
+## I am working on:
+* communicating context and expectations early, often, and clearly
+* focusing on the big picture and impacts over the individual details
+* holding people accountable for those expectations (including myself)
+* finding better ways to communicate and teach things I am passionate about
 
 [Download my resume](https://www.dropbox.com/s/jnrkiwnyz3jbmpy/JessDale_Resume_2019.pdf?dl=0)
