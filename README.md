@@ -6,7 +6,7 @@ If I've missed something here, or if you feel like there's a mismatch in what yo
 > Disclaimer:
 > This document does not apply to anyone else in the company, and solely reflects on my personal management style.
 
-# My role as a manager
+# My role
 As a Design Manager, it is my job to:
 
 1. Start with why - providing context and vision
@@ -36,6 +36,10 @@ I expect you to operate as a [Directly Responsible Individual](https://medium.co
 
 I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
 
+Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
+
+Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
+
 ## Performance
 Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
 
@@ -43,10 +47,6 @@ Please reach out and tell me if anything, at all, feels off. It’s so much hard
 
 # What you can expect from me
 I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
-
-For local chats, I really enjoy walking 1:1s; for remote chats, I have a difficult time focusing unless I can see your face over video.  This is only a minimum though, and not a maximum! I prefer to have separate meetings scheduled for agenda-driven chats (e.g. goals, reviewing 360 feedback, etc.) so that we still have room for more timely 1:1 chat.
-
-While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
 ## Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
@@ -62,18 +62,10 @@ I know that this gets repetitive - but it's very important to me to ask those qu
 I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
 ## Communication
-Part of my job is to track the performance of those who report to me - and obviously provide you with feedback on how to improve.
-
-Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
-
-Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
-
-Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
-
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
 
 ### Meetings and schedule
-...
+While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
 
 # More about me and my personality
@@ -106,7 +98,6 @@ that personality type if you want to get some insight in to some broad categoriz
 
 ## I am working on:
 * communicating context and expectations early, often, and clearly
-* focusing on the big picture and impacts over the individual details
 * holding people accountable for those expectations (including myself)
 * finding better ways to communicate and teach things I am passionate about
 
