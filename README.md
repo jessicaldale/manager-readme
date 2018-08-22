@@ -72,7 +72,7 @@ Please invest in yourself and focus on self-improvement. This looks different fo
 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
 
-## Meetings and schedule
+### Meetings and schedule
 ...
 
 
