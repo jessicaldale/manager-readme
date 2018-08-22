@@ -6,7 +6,7 @@ If I've missed something here, or if you feel like there's a mismatch in what yo
 > Disclaimer:
 > This document does not apply to anyone else in the company, and solely reflects on my personal management style.
 
-# My Job
+# My role as a manager
 As a Design Manager, it is my job to:
 
 1. Start with why - providing context and vision
@@ -19,7 +19,7 @@ I’m here to help and support you, to set context for what you’re working on,
 
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
-# My Values
+# My values and approach
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
@@ -27,7 +27,6 @@ I strongly believe in putting people over process and changing process to accomm
 * I value improvement and being proactive.
 * I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
 
-# My Approach
 I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
 My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
@@ -72,6 +71,9 @@ Please set healthy goals and boundaries for yourself, and if you’re a manager,
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
+
+## Meetings and schedule
+...
 
 
 # More about me and my personality
