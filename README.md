@@ -20,7 +20,7 @@ I’m here to help and support you, to set context for what you’re working on,
 If I fail at any of these - especially anything that puts retaining you at risk - you would be doing me a **huge** favor by letting me know as soon as possible. I don't expect everyone to stick around forever, however if a departure is potentially due to something we could have done different, I would appreciate the chance to make things right first.
 
 # My values and approach
-I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side. At the end of the day, these are my values as a manager:
+I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side and each come with their own sets of challenges. At the end of the day, these are my values as a manager:
 
 * I value transparency about what’s happened, what’s happening, and what’s going to happen.
 * I value being human.
@@ -34,9 +34,11 @@ My teams come first, the clients second, and the company comes third. Obviously 
 # What I expect from folks who report to me
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
-I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own - I am here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
+I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own. I will be here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. 
 
-Please set healthy goals and boundaries for yourself, and if you’re a manager, model healthy work-life balance to your team.
+Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
+
+I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility tomodel healthy work-life balance. Please ask me more about this!
 
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
@@ -46,18 +48,18 @@ Part of my job is to track the performance of those who report to me - and obvio
 Please reach out and tell me if anything, at all, feels off. It’s so much harder to solve problems when we’re guessing what they are. I’ll never consider proactively speaking up about challenges as a sign of complaining. I really value hearing your honest, transparent thoughts about how we can learn and grow together. Bonus points - Thinking about solutions/approaches to the challenges you bring up (I totally understand this isn’t always possible, and sometimes even what the challenge is is unclear).
 
 # What you can expect from me
-I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda: What would you like to talk about? What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time.
+I'm a big fan of 1-on-1's. I believe that these meetings are for you to set the agenda. Come ready with some topics or anything that's on your mind. What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time. 
 
-## Feedback
-I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
-
-Feedback should go both ways. I am relying on you to let me know when I am doing something detrimental to my position, our relationship, or the company. If at any point you feel you have feedback to provide to me, I will listen and internalize the feedback you give me. Beyond that, I will go one step further and ask you three questions at the end of every 1-on-1 we have:
+I will also bring some standard questions for us talk through:
 
 * "Anything else on your mind?" - Just in case you forgot something!
 * "What can I do support you?" - Am I blocking you on anything? Do you have any additional requests?
 * "Any advice for me?" - This is me opening the conversation to receive feedback from you - please provide it if you have it!
 
-I know that this gets repetitive - but it's very important to me to ask those questions every session.
+## Feedback
+I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
+
+Feedback should go both ways. I am relying on you to let me know when I am doing something detrimental to my position, our relationship, or the company. If at any point you feel you have feedback to provide to me, I will listen and internalize the feedback you give me.
 
 I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
@@ -66,7 +68,6 @@ In general, please over-communicate with me. Don’t worry about sending me too 
 
 ### Meetings and schedule
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
-
 
 # More about me and my personality
 I have personality quirks. We all do. Here are some things that I am both aware of, and that may impact how you work with me:
