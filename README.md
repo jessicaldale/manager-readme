@@ -101,4 +101,4 @@ that personality type if you want to get some insight in to some broad categoriz
 * holding people accountable for those expectations (including myself)
 * finding better ways to communicate and teach things I am passionate about
 
-[Download my resume](https://www.dropbox.com/s/jnrkiwnyz3jbmpy/JessDale_Resume_2019.pdf?dl=0)
+[Download my resume](https://www.dropbox.com/s/6ub21eobyv0lhsy/JessDale_Resume_2019a.pdf?dl=0)
