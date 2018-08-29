@@ -80,12 +80,9 @@ to hear from me.
 * I am traditionally a [People Pleaser](https://www.psychologytoday.com/blog/shrink/201210/are-you-people-pleaser). This has acted as a
 detriment to me in the past due to taking on too much work when I feasibly could not do this. While I have grown away from this mentality,
 I still want to find a way to help everyone. I try my best to not let this impact my ability to do my job, and more importantly, impact
-my team. If I do this, please call me out. I have grounded myself extensively over the years, so for the most part this is no longer an
-issue - but it does slip through at times.
+my team. If I do this, please call me out. 
 * According to random personality tests I've taken at random company team building events, I am classified as an 
-[INFJ personality](https://www.16personalities.com/infj-personality). While I find bucketing someone in to a single identifier is as
-effective as star signs defining you as an individual, I certainly see traits that match my general personality. Feel free to read up on
-that personality type if you want to get some insight in to some broad categorization of who I may or may not be.
+[INFJ personality](https://www.16personalities.com/infj-personality). 
 
 ## Fun facts!
 
