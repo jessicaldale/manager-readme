@@ -22,10 +22,10 @@ If I fail at any of these - especially anything that puts retaining you at risk 
 # My values and approach
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side and each come with their own sets of challenges. At the end of the day, these are my values as a manager:
 
-* I value transparency about what’s happened, what’s happening, and what’s going to happen.
+* I value transparency about status: what’s happened, what’s happening, and what’s going to happen.
 * I value being human.
 * I value improvement and being proactive.
-* I value your time and don’t want you to do any process that is neither beneficial to you nor required by law, policy, etc.
+* I value your time and don’t want you to do anything that isn't beneficial to you or required by law, policy, etc.
 
 I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
@@ -41,11 +41,6 @@ Ultimately, I am here to help you do your job in any way I can and to help you e
 I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility tomodel healthy work-life balance. Please ask me more about this!
 
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
-
-## Performance
-Part of my job is to track the performance of folks who report to me and share feedback on how to improve when needed.
-
-I will provide feedback on how you're doing during our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about it. It's tough to resolve any issues or concerns if we're not having open conversation. 
 
 # What you can expect from me
 I'm a big fan of 1-on-1s. I believe that these meetings are for you to set the agenda. Come ready with some topics or anything that's on your mind. What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time. 
@@ -63,15 +58,15 @@ Feedback should go both ways. I am relying on you to let me know when I am doing
 
 I will also send an anonymous feedback form on occassion to allow anyone to provide feedback they do not feel comfortable telling me in person.
 
+I will provide feedback on how you're doing during our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about it. It's tough to resolve any issues or concerns if we're not having open conversation. 
+
 ## Communication
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
 
 ### Meetings and schedule
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
-# More about me and my personality
-I have personality quirks. We all do. Here are some things that I am both aware of, and that may impact how you work with me:
-
+# Personality + Quirks
 * I am an [Internal Thinker](https://coachapproachministries.org/thinking-styles/). I will take my time to purposefully choose the words
 that I am going to use. I will take my time to rationalize a situation to ensure that I fully grasp what I am commenting on/contributing
 to. I am not loud. I have been told that this sometimes feels like I am not engaged or interested in participating (especially in larger
@@ -85,7 +80,6 @@ my team. If I do this, please call me out.
 [INFJ personality](https://www.16personalities.com/infj-personality). 
 
 ## Fun facts!
-
 * I like autonomy and ownership. 
 * I like to understand what success looks like, so I will know if it’s been achieved. 
 * I like to know someone has my back.
@@ -94,9 +88,10 @@ my team. If I do this, please call me out.
 * I have to ask why. A lot.
 * I hate how distracted I get.
 
-## I am working on:
+## Areas I am working on improving:
 * making sure I'm continously communicating context and expectations, with clarity
 * making sure I'm holding folks accountable for those expectations (including myself)
+* making sure I'm sharing regular updates (via Week In Review)
 * making sure I'm dedicating time to writing and public speaking
 
 [Download my resume](https://www.dropbox.com/s/6ub21eobyv0lhsy/JessDale_Resume_2019a.pdf?dl=0)
