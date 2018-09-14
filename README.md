@@ -66,7 +66,7 @@ In general, please over-communicate with me. Don’t worry about sending me too 
 ### Meetings and schedule
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. As mentioned before, this is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
 
-# Personality + Quirks
+# My personality and quirks
 * I am an [Internal Thinker](https://coachapproachministries.org/thinking-styles/). I will take my time to purposefully choose the words
 that I am going to use. I will take my time to rationalize a situation to ensure that I fully grasp what I am commenting on/contributing
 to. I am not loud. I have been told that this sometimes feels like I am not engaged or interested in participating (especially in larger
