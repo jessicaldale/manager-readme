@@ -22,23 +22,23 @@ If I fail at any of these - especially anything that puts retaining you at risk 
 # My values and approach
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side and each come with their own sets of challenges. At the end of the day, these are my values as a manager:
 
+* I value being human. 
 * I value transparency about status: what’s happened, what’s happening, and what’s going to happen.
-* I value being human.
 * I value improvement and being proactive.
 * I value your time and don’t want you to do anything that isn't beneficial to you or required by law, policy, etc.
-
-I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
 My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
 # What I expect from folks who report to me
+I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
+
 I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
 I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own. I will be here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. 
 
 Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
 
-I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility tomodel healthy work-life balance. Please ask me more about this!
+I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility to model healthy work-life balance. Please ask me more about this!
 
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
