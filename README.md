@@ -25,7 +25,7 @@ I strongly believe in putting people over process and changing process to accomm
 * I value being human and showing empathy. 
 * I value transparency and honesty and integrity.
 * I value pushing for improvement and being accountable.
-* I value your time and mine.
+* I value acknowledging mistakes and creating safe spaces.
 
 My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
