@@ -22,10 +22,10 @@ If I fail at any of these - especially anything that puts retaining you at risk 
 # My values and approach
 I strongly believe in putting people over process and changing process to accommodate our needs and goals. I’ve worked on the product side, the agency side, and the consultant side and each come with their own sets of challenges. At the end of the day, these are my values as a manager:
 
-* I value being human. 
-* I value transparency about status: what’s happened, what’s happening, and what’s going to happen.
-* I value improvement and being proactive.
-* I value your time and don’t want you to do anything that isn't beneficial to you or required by law, policy, etc.
+* I value being human and showing empathy. 
+* I value transparency and honesty and integrity.
+* I value pushing for improvement and being accountable.
+* I value your time and mine.
 
 My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
