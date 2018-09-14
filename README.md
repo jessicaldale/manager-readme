@@ -43,9 +43,9 @@ I am also a strong proponent of setting healthy goals and boundaries for yoursel
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
 ## Performance
-Part of my job is to track the performance of folks who report to me - and provide you with consistent feedback on how to improve.
+Part of my job is to track the performance of folks who report to me and share feedback on how to improve when needed.
 
-I will give you feedback on how you're doing in our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about. It's tough to resolve any issues or concerns if we're not having open conversation. 
+I will provide feedback on how you're doing during our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about it. It's tough to resolve any issues or concerns if we're not having open conversation. 
 
 # What you can expect from me
 I'm a big fan of 1-on-1s. I believe that these meetings are for you to set the agenda. Come ready with some topics or anything that's on your mind. What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time. 
