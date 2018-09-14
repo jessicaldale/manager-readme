@@ -42,7 +42,7 @@ I am also a strong proponent of setting healthy goals and boundaries for yoursel
 
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
-# What you can expect from me
+# What you can expect from me as a manager
 I'm a big fan of 1-on-1s. I believe that these meetings are for you to set the agenda. Come ready with some topics or anything that's on your mind. What’s going well? What’s bugging you? These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time. 
 
 I will also bring some standard questions for us talk through:
