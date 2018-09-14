@@ -95,8 +95,8 @@ my team. If I do this, please call me out.
 * I hate how distracted I get.
 
 ## I am working on:
-* communicating context and expectations early, often, and clearly
-* holding people accountable for those expectations (including myself)
-* finding better ways to communicate and teach things I am passionate about
+* making sure I'm continously communicating context and expectations, with clarity
+* making sure I'm holding folks accountable for those expectations (including myself)
+* making sure I'm dedicating time to writing and public speaking
 
 [Download my resume](https://www.dropbox.com/s/6ub21eobyv0lhsy/JessDale_Resume_2019a.pdf?dl=0)
