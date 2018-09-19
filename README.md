@@ -1,7 +1,7 @@
 # What is this?
 I'm Jess Dale and this is my Manager README, a document that helps introduce you to my management style, philosophy, and expectations. The intended audience is primarily anyone who reports in to me, though anyone is free to read it - as well as provide feedback on it! Please treat it as a reference and promise on how I will conduct myself as a manager, and what I expect from you.
 
-If I've missed something here, or if you feel like there's a mismatch in what you've read versus what you've seen from me, please raise it. This is public with the intent that it will make it easier for you to hold me accountable!
+If I've missed something here, or if you feel like there's a discrepancy in what you've read versus what you've seen from me, please raise it. This is public with the intent that it will make it easier for you to hold me accountable!
 
 > Disclaimer:
 > This document does not apply to anyone else in the company, and solely reflects on my personal management style.
@@ -44,9 +44,8 @@ I am also a strong proponent of setting healthy goals and boundaries for yoursel
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
 # What you can expect from me as a manager
-I think it's best when these meetings are for you to set the agenda. Come ready with some topics or anything that's on your mind. These don’t need to be about work updates unless you really want to talk about work. If there are things that I want to ask you, I’ll do it, but this is your time. If I have feedback, I will also provide it during this time. 
+I deeply respect regular 1-1 time. It's an important part of my role and my relationship with you. I think it's best when these meetings have an agenda set by you. Come ready with some topics or anything that's on your mind. These don’t need to be about work updates unless you really want to talk about work. This is your time! Please take advantage of it. 
 
-I will also make sure to ask each time we meet if you have any advice or feedback for me. I can only improve as a manager by  receiving feedback from you - please provide it if you have it!
 
 ## Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
@@ -58,7 +57,7 @@ I will also send an anonymous feedback form on occassion to allow anyone to prov
 I will provide feedback on how you're doing during our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about it. It's tough to resolve any issues or concerns if we're not having open conversation. 
 
 ## Communication
-In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable, and in our remote context, I’d love to be here for you for what comes up because I can’t see how you’re doing by walking around an office.
+In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable.
 
 ### Meetings and schedule
 While I have a preference to meeting for 30 minutes every week, the length, frequency, and medium are up to you. To start, I will book us time to meet for 1 hour once a week. This of course is not the only time you can reach me - if there is ever something on your mind, please reach out. If I am busy, I will find time for you.
