@@ -31,13 +31,11 @@ I strongly believe in putting people over process and changing process to accomm
 My teams come first, the clients second, and the company comes third. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
 # What I expect from folks who report to me
-I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
+I am here to evaluate your approach and offer advice or feedback to help you make decisions, not to tell you how to do your job. I am not an authoritarian boss. I do not want to micro manage anyone - it's not a good use of my time, or yours.
 
-I expect you to operate as a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
+I expect you deliver and commit. Uphold standards. Operate as an indepent and a [Directly Responsible Individual](https://medium.com/@mmamet/directly-responsible-individuals-f5009f465da4). 
 
-I am not here to tell you how to do your job. I believe you are able to operate as a professional adult, and make smart decisions. This does not mean that I expect you to do everything on your own. I will be here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. 
-
-Ultimately, I am here to help you do your job in any way I can and to help you evaluate your approach.
+This does not mean that I expect you to do everything on your own. I will be here to provide you guidance and mentorship (either through me, or by finding the people you should be getting it from). Nor do I expect you to know everything - when you need help, I expect you to not hesitate and ask for it. If you feel you made a mistake, own up to it, we're all human and mistakes happen. 
 
 I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility to model healthy work-life balance. Please ask me more about this!
 
@@ -47,7 +45,7 @@ Please invest in yourself and focus on self-improvement. This looks different fo
 I deeply respect regular 1-1 time. It's an important part of my role and my relationship with you. I think it's best when these meetings have an agenda set by you. Come ready with some topics or anything that's on your mind. These don’t need to be about work updates unless you really want to talk about work. This is your time! Please take advantage of it. 
 
 
-## Feedback
+### Feedback
 I am a strong believer of [Radical Candor](https://www.youtube.com/watch?v=MIh_992Nfes); I want to ensure that you are receiving honest and actionable feedback on a consistent basis. There should never be a scenario where a performance review, or in the worst case scenario, a Performance Improvement Plan, is the first time that you hear negative comments or feedback. I will provide you with feedback and guidance to the best of my ability, and will do my best to ensure that you understand the feedback that I provide to you. I will always ensure that feedback is given in a private setting.
 
 Feedback should go both ways. I am relying on you to let me know when I am doing something detrimental to my position, our relationship, or the company. If at any point you feel you have feedback to provide to me, I will listen and internalize the feedback you give me.
@@ -56,7 +54,7 @@ I will also send an anonymous feedback form on occassion to allow anyone to prov
 
 I will provide feedback on how you're doing during our 1-on-1s. If there's something I'm worried about, I will let you know. If you worry that I may be worried about your performance, please let me know. Let's talk about it. It's tough to resolve any issues or concerns if we're not having open conversation. 
 
-## Communication
+### Communication
 In general, please over-communicate with me. Don’t worry about sending me too many messages or overwhelming me, it’s really valuable.
 
 ### Meetings and schedule
