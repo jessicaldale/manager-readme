@@ -42,7 +42,7 @@ I am also a strong proponent of setting healthy goals and boundaries for yoursel
 Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
 
 # What you can expect from me as a manager
-I deeply respect regular 1-1 time. It's an important part of my role and my relationship with you. I think it's best when these meetings have an agenda set by you. Come ready with some topics or anything that's on your mind. These don’t need to be about work updates unless you really want to talk about work. This is your time! Please take advantage of it. 
+I deeply respect time spent together in 1-1's as I think it's crucial to get to know you, what you need and how you feel. I regard the time as sacred and will make sure we are meeting consistently. I think it's best when these meetings have an agenda set by you, so be ready with some topics to discuss or anything that's on your mind. I prefer they not been about project updates unless you really want to talk about work. This is your time! Please take advantage of it. 
 
 
 ### Feedback
