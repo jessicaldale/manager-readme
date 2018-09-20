@@ -91,4 +91,4 @@ my team. If I do this, please call me out.
 [Download my resume](https://www.dropbox.com/s/6ub21eobyv0lhsy/JessDale_Resume_2019a.pdf?dl=0)
 
 ####
-This readme was inspired by other manager readmes, including Matt Newkirk and Katie Lo
+_This README was inspired by other manager READMEs including: Matt Newkirk and Katie Lo_
