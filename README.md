@@ -39,7 +39,7 @@ This does not mean that I expect you to do everything on your own. I will be her
 
 I am also a strong proponent of setting healthy goals and boundaries for yourself, and I feel it's my responsibility to model healthy work-life balance. Please ask me more about this!
 
-Please invest in yourself and focus on self-improvement. This looks different for everyone and can be going deeper, going broader, or engaging in feedback to really listen. If you’re a manager, please build a peer network for yourself and keep learning and educating yourself about leadership.
+It's important to me that you're investing in yourself and focused on self-improvement. This looks different for all people, but can mean expanding hard skills or soft, going broader or deeper. If you’re a manager, it's key to work on building a network of peers you can talk with and to keep learning and educating yourself about what leadership means.
 
 # What you can expect from me as a manager
 I deeply respect time spent together in 1-1's as I think it's crucial to get to know you, what you need and how you feel. I regard the time as sacred and will make sure we are meeting consistently. I think it's best when these meetings have an agenda set by you, so be ready with some topics to discuss or anything that's on your mind. I prefer they not been about project updates unless you really want to talk about work. This is your time! Please take advantage of it. 
